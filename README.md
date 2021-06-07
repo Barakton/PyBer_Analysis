@@ -8,7 +8,7 @@ The purpose of this analysis was to visualize the total weekly fares for the fol
 ## Results
 Looking at the results shown below, we can tell the following.
 - Most Total Rides
--- Urban
+- - Urban
 - Least Total Rides
 - - Rural
 - Most Drivers

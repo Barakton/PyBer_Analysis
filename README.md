@@ -7,6 +7,7 @@ The purpose of this analysis was to visualize the total weekly fares for the fol
 
 ## Results
 Looking at the results shown below, we can tell the following.
+![cities](https://user-images.githubusercontent.com/83259639/120956198-a1a4b280-c718-11eb-8e1b-814af55f9c6c.PNG)
 - Most Total Rides
   - Urban
 - Least Total Rides

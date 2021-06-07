@@ -8,25 +8,25 @@ The purpose of this analysis was to visualize the total weekly fares for the fol
 ## Results
 Looking at the results shown below, we can tell the following.
 - Most Total Rides
--- Urban
+- - Urban
 - Least Total Rides
--- Rural
+- - Rural
 - Most Drivers
--- Urban
+- - Urban
 - Least Drivers
--- Rural
+- - Rural
 - Hightest Average Fare per Ride
--- Rural
+- - Rural
 - Lowest Average Fare per Ride
--- Urban
+- - Urban
 - Highest Average Fare per Driver
--- Rural
+- - Rural
 - Lowest Average Fare per Driver
--- Urban
+- - Urban
 - Highest Total Fares
--- Urban
+- - Urban
 - Lowest Total Fares
--- Rural
+- - Rural
 
 ## Summary
 In conclusion, I would recommend 3 different ways we can change some of the large disparities.
